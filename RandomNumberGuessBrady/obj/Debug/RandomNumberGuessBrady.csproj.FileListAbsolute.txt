@@ -1,0 +1,13 @@
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\bin\Debug\RandomNumberGuessBrady.exe.config
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\bin\Debug\RandomNumberGuessBrady.exe
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\bin\Debug\RandomNumberGuessBrady.pdb
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.exe
+C:\Users\Kabrina\Documents\C#\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\RandomNumberGuessBrady\RandomNumberGuessBrady\bin\Debug\RandomNumberGuessBrady.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\RandomNumberGuessBrady\RandomNumberGuessBrady\bin\Debug\RandomNumberGuessBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\RandomNumberGuessBrady\RandomNumberGuessBrady\bin\Debug\RandomNumberGuessBrady.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\RandomNumberGuessBrady\RandomNumberGuessBrady\obj\Debug\RandomNumberGuessBrady.pdb
